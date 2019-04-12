@@ -1,0 +1,45 @@
+{
+  "name": "@ckeditor/balloon-block-editor-with-real-time-collaboration",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-autoformat": "^11.0.1",
+    "@ckeditor/ckeditor5-basic-styles": "^11.1.0",
+    "@ckeditor/ckeditor5-block-quote": "^11.0.1",
+    "@ckeditor/ckeditor5-easy-image": "^11.0.1",
+    "@ckeditor/ckeditor5-editor-balloon": "^12.1.0",
+    "@ckeditor/ckeditor5-essentials": "^11.0.1",
+    "@ckeditor/ckeditor5-heading": "^11.0.1",
+    "@ckeditor/ckeditor5-image": "^13.0.1",
+    "@ckeditor/ckeditor5-link": "^11.0.1",
+    "@ckeditor/ckeditor5-list": "^12.0.1",
+    "@ckeditor/ckeditor5-media-embed": "^11.1.0",
+    "@ckeditor/ckeditor5-paragraph": "^11.0.1",
+    "@ckeditor/ckeditor5-paste-from-office": "^11.0.1",
+    "@ckeditor/ckeditor5-real-time-collaboration": "^12.2.0",
+    "@ckeditor/ckeditor5-remove-format": "^10.0.0",
+    "@ckeditor/ckeditor5-table": "^12.0.1",
+    "@ckeditor/ckeditor5-ui": "^12.1.0"
+  },
+  "devDependencies": {
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.1",
+    "@ckeditor/ckeditor5-dev-webpack-plugin": "^8.0.1",
+    "@ckeditor/ckeditor5-theme-lark": "^13.0.1",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^2.0.0",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^1.2.7",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "engines": {
+    "node": ">=6.9.0",
+    "npm": ">=3.0.0"
+  },
+  "author": "CKSource (https://cksource.com/)",
+  "license": "SEE LICENSE IN ../LICENSE.md",
+  "homepage": "https://ckeditor.com",
+  "scripts": {
+    "build": "webpack --mode production"
+  }
+}
