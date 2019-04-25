@@ -20,7 +20,11 @@ This repository contains code samples and example integrations of [CKEditor 5 co
 
 * `/multi-root-editor-with-real-time-collaboration` &ndash; A sample build of the custom CKEditor 5 [multi-root editor](https://ckeditor.com/docs/ckeditor5/latest/examples/framework/multi-root-editor.html) with [real-time-collaboration features](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/real-time-collaboration/real-time-collaboration.html).
 
+* `/real-time-collaboration-for-angular` &ndash; A sample integration of the CKEditor 5 WYSIWYG editor with [real-time-collaboration features](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/real-time-collaboration/real-time-collaboration.html) inside [Angular](https://angular.io/).
+
 * `/real-time-collaboration-for-react` &ndash; A sample integration of the CKEditor 5 WYSIWYG editor with [real-time-collaboration features](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/real-time-collaboration/real-time-collaboration.html) inside [React](https://reactjs.org/).
+
+* `/real-time-collaboration-for-vue` &ndash; A sample integration of the CKEditor 5 WYSIWYG editor with [real-time-collaboration features](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/real-time-collaboration/real-time-collaboration.html) inside [Vue](https://vuejs.org/).
 
 * `/php` &ndash; A sample integration of the CKEditor 5 WYSIWYG editor with the [comments](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/comments/comments.html) and [track changes](https://ckeditor.com/docs/ckeditor5/latest/features/collaboration/track-changes/track-changes.html) plugins, written in PHP.
 
